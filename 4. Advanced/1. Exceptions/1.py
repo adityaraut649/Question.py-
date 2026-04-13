@@ -44,3 +44,29 @@ except Exception as e:
     print("Error: Exception: " , e)
 
 print("Thank you")
+
+#Example 4: try-except-else
+
+try:
+    num = int(input("Enter a numbers: "))
+    result = num ** 2
+except (ValueError) as e:
+    print("Error: Value error: " , e)
+   
+else:
+    print("The square of the number is: " , result)
+
+
+# 5. What is the purpose of the finally block?
+
+try:
+    a = int(input("Enter a number: "))
+    result = a ** 2
+    print("The square of the number is: " , result)
+except (ValueError) as e:
+    print("Error: Value error: " , e)
+   
+else:
+    print("The square of the number is: " , result)
+finally:
+    print("Thank you")

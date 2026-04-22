@@ -1,6 +1,6 @@
 # 🐍 LearningPython
 
-A personal repository documenting my journey of learning Python — from fundamentals to OOP and beyond.
+A personal repository documenting my journey of learning Python — from fundamentals to advanced concepts with hands-on practice.
 
 ---
 
@@ -33,6 +33,16 @@ LearningPython/
 │   └── 5. Encapsulation/
 │
 ├── 4. Advanced/
+│   ├── 1. Exceptions/
+│   ├── 2. Multi-Threading/
+│   ├── 3. Iterators/
+│   ├── 4. Generators/
+│   ├── 5. Decorator/
+│   ├── 6. Map & Filter/
+│   ├── Project/Student-Ma.../
+│   └── Question/
+│       ├── Q1.py – Q9.py
+│       └── 10Q.py
 │
 └── Project/
 ```
@@ -64,8 +74,14 @@ LearningPython/
 - [x] Abstraction
 - [x] Encapsulation
 
-### 🔹 Advanced
-- [ ] In progress...
+### 🔹 Advanced Python
+- [x] Exception Handling
+- [x] Multi-Threading
+- [x] Iterators
+- [x] Generators
+- [x] Decorators
+- [x] Map & Filter
+- [x] Practice Questions (Q1–Q9, 10Q)
 
 ---
 
